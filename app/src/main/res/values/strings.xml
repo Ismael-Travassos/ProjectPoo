@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fast Truck</string>
+
+    <string name="ingrediente">INGREDIENTES</string>
+    <string name="hintNomeIngrediente">Nome do ingrediente</string>
+    <string name="action_settings">Settings</string>
+</resources>
